@@ -1,4 +1,4 @@
-![image](https://github.com/RandomMaerks/Phlatt-Grotesk/assets/109415614/fdd10739-7404-41b9-866b-d2e59afeba99)# Unicode Ranges
+# Unicode Ranges
 
 This information can be found here: FontForge > Elements > Font Info > Unicode Ranges
 
