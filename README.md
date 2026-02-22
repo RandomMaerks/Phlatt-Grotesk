@@ -5,11 +5,9 @@ The design is inspired by the feel of Inter and the "flat" sides of Roboto and i
 
 The font contains around 1771 glyphs, including glyphs for the Latin, Greek and Cyrillic writing systems. Additionally, the font contains mathematical notations, subscript & superscript, numerators & denominators, IPA, geometric shapes, arrows, Bulgarian localisation, very obscure symbols and characters, etc.
 
-![image-1](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pgb1.png)
-![image-4](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pgb4.png)
-![image-6](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pgb6.png)
-![image-8](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pgb8.png)
-![image-7](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pgb7.png)
+![image](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pg-c1.png)
+![image](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/pg-c2.png)
+![image](https://github.com/RandomMaerks/Phlatt-Grotesk/blob/main/documentation/site-d1.png)
 
 ---
 ## Styles
